@@ -4,6 +4,8 @@ This simple Tip Calculator Application built on Android Studio (Dolphin version)
 
 It has full functionality of calculating tip by percentage
 
+As tip amount changes from 0 to 30, it has animation of color (red to green) and text change (poor to Amazing)
+
 Android View:
 
 When app is started:
@@ -13,6 +15,7 @@ When app is started:
 When tip % is 0 ~ 9 which is poor:
 
 ![2](https://user-images.githubusercontent.com/98497929/194227683-58bf68a3-11ef-4633-8af6-aec7c5f343f8.PNG)
+
 ![3](https://user-images.githubusercontent.com/98497929/194227730-d6433e08-0295-4a20-a5e1-4ef6b6f5a2c3.PNG)
 
 When tip % is 10 ~ 14 which is Acceptable:
